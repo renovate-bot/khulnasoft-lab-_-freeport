@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/khulnasoft-labs/freeport"
+	"github.com/khulnasoft-lab/freeport"
 )
 
 func main() {

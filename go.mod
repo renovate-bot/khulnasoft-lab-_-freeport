@@ -1,4 +1,4 @@
-module github.com/khulnasoft-labs/freeport
+module github.com/khulnasoft-lab/freeport
 
 go 1.18
 
